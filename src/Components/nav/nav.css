@@ -30,8 +30,8 @@ nav a:hover {
 
 
 nav a.active{
-    background:  rgba(178, 176, 176, 0.6);
-    color: var(--color-white);
+    background:  var(--color-primary);
+    color: var(--color-bg);
 }
 
 
